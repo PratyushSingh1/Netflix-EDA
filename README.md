@@ -35,6 +35,12 @@ The commands that we used in this project :
 
 
 
+## 🛠 Skills
+Python, Jupyter Notebook, some libraries like pandas, numpy, etc.
+
+
+
+
 
 
 
