@@ -1,6 +1,10 @@
 # Netflix-EDA
 
 
+![Netflix Logo Animation](https://github.com/PratyushSingh1/Netflix-EDA/assets/87380102/56e447e6-fe89-4791-aaf8-9a70d235f20b)
+
+
+
 
 
  Netflix, Inc. is an American media-services provider and production company headquartered in Los Gatos, California, founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California. The company's primary business is its subscription-based streaming service which offers online streaming of a library of films and television programs, including those produced in-house. As of April 2020, Netflix had over 193 million paid subscriptions worldwide, including 73 million in the United States. It is available worldwide except in the following: mainland China (due to local restrictions), Iran, Syria, North Korea, and Crimea (due to U.S. sanctions). The company also has offices in French, United States, United Kingdom, Brazil, the Netherlands, India, Japan, and South Korea. Netflix is a member of the Motion Picture Association of America (MPAA). Today, the company produces and distributes content from countries all over the globe.
